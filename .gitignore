@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.env
+
+# Logs
+*.log
+
+# Virtual environments
+.venv/
+venv/
+
+# Testing
+.mypy_cache/
+.pytest_cache/

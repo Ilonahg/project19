@@ -1,4 +1,4 @@
-[tool.poetry]
+ [tool.poetry]
 name = "bank-widget"
 version = "0.1.0"
 description = "Widget for filtering and sorting bank operations."
